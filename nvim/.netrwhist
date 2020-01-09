@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/austin/.config/i3blocks'
+let g:netrw_dirhist_0='/home/austin/.config'
+let g:netrw_dirhist_9='/home/austin/.config/i3'
+let g:netrw_dirhist_8='/home/austin/.config'
+let g:netrw_dirhist_7='/home/austin/.config/mpv'
+let g:netrw_dirhist_6='/home/austin/.config'
+let g:netrw_dirhist_5='/home/austin/.config/i3blocks'
+let g:netrw_dirhist_4='/home/austin/.config/i3blocks/battery2'
+let g:netrw_dirhist_3='/home/austin/.config/i3'
+let g:netrw_dirhist_2='/home/austin/.config'
